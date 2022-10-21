@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;Derek Yoh
-N;Yoh;Derek;;;
-TITLE;Head\, IT Division
-ROLE;Vice President
-ORG;CBM Pte Ltd
-EMAIL;type=WORK,INTERNET:derekyoh@cbm.com.sg
+FN;CHARSET=UTF-8:Derek Yoh
+N;CHARSET=UTF-8:Yoh;Derek;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:derekyoh@cbm.com.sg
 TEL;TYPE=CELL:+65 9679 7940
 TEL;TYPE=WORK,VOICE:+65 6513 0808
-ADR;TYPE=WORK:;;865 Mountbatten Road #07-01 Katong Shopping Centre;;;437844;Singapore
-URL;type=WORK:https://cbm.com.sg
+ADR;CHARSET=UTF-8;TYPE=WORK:;;865 Mountbatten Road #07-01 Katong Shopping Centre;;;437844;Singapore
+TITLE;CHARSET=UTF-8:Head\, IT Division
+ROLE;CHARSET=UTF-8:Vice President
+ORG;CHARSET=UTF-8:CBM Pte Ltd
+URL;type=WORK;CHARSET=UTF-8:https://cbm.com.sg
 END:VCARD
