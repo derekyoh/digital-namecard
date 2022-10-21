@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Derek Yoh
-N:Yoh;Derek;;;
+FN;Derek Yoh
+N;Yoh;Derek;;;
 TITLE;Head\, IT Division
 ROLE;Vice President
 EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:derekyoh@cbm.com.sg
