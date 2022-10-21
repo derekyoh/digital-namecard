@@ -6,8 +6,8 @@ ORG;CBM Pte Ltd;
 TITLE;Head of IT\nVice President
 EMAIL;type=INTERNET;type=WORK;type=pref:derekyoh@cbm.com.sg
 TEL;type=MOBILE;type=VOICE:+65 9679 7940
-item1.ADR;type=WORK;type=pref:;;865 Mountbatten Road #07-01\nKatong Shopping Centre\,;;;437844;Singapore
+item1.ADR;type=WORK;type=pref:;;865 Mountbatten Road #07-01\nKatong Shopping Centre\;;;437844;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:cbm.com.sg
+item2.URL;https://cbm.com.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
